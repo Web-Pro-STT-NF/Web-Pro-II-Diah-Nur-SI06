@@ -16,7 +16,7 @@
   <div class="pt-3">
   </div>
   <div class="form-group row">
-    <label for="text1" class="col-4 col-form-label">Customer</label> 
+    <label for="costumer" class="col-4 col-form-label">Costumer</label> 
     <div class="col-8">
       <input id="text1" name="text1" placeholder="Nama Customer" type="text" class="form-control">
     </div>
@@ -39,7 +39,7 @@
     </div>
   </div>
   <div class="form-group row">
-    <label for="text" class="col-4 col-form-label">Jumlah</label> 
+    <label for="jumlah" class="col-4 col-form-label">Jumlah</label> 
     <div class="col-8">
       <input id="text" name="text" placeholder="Jumlah" type="text" class="form-control">
     </div>
@@ -88,7 +88,7 @@
 
 <table class="table w-25 position-absolute top-0 end-0 mr-4">
   <tr style="background-color:blue; color:white">
-    <td scope="col">Daftar Harga</td>
+    <td scope="col">Harga</td>
   </tr>
   <tr>
     <td scope="row">TV : 4.200.000</td>
@@ -100,7 +100,7 @@
     <td scope="row">Mesin Cuci : 3.800.000</td>
   </tr>
   <tr style="background-color:blue; color:white">
-    <td scope="row">Harga dapat berubah setiap saat</td>
+    <td scope="row">Harga Dapat Berubah Setiap Saat</td>
   </tr>
 </table>
     
